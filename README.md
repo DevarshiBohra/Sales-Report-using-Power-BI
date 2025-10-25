@@ -2,7 +2,7 @@
 
 ## 🧾 Project Overview
 This Power BI project presents an **interactive Sales Performance Dashboard** designed to analyze and visualize key business metrics such as total revenue, gross profit, and sales units.  
-The dashboard allows users to explore data dynamically using filters for **Country**, **Year**, and **Month**, enabling in-depth performance tracking across different regions and time periods.
+The dashboard allows users to explore data dynamically using filters for **Country** and **Year**, enabling in-depth performance tracking across different regions and time periods.
 
 ---
 
