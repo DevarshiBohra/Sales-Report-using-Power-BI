@@ -66,10 +66,10 @@ The dashboard allows users to explore data dynamically using filters for **Count
 
 ## 📷 Dashboard Preview
 ### Page 1
-![Sales Dashboard Overview](Sales Report 1.png)
+![Sales Dashboard Overview](Sales_Report_1.png)
 
 ### Page 2
-![Sales Dashboard Trends](Sales Report 2.png)
+![Sales Dashboard Trends](Sales_Report_2.png)
 
 ---
 
