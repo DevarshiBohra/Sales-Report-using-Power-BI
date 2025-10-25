@@ -56,10 +56,11 @@ The dashboard allows users to explore data dynamically using filters for **Count
 ---
 
 ## 🚀 How to Use
-1. Download the `Sales_Report.pbix` file from this repository.  
-2. Open it in **Power BI Desktop**.  
-3. Use the filters (Country, Year, Month) to interact with the dashboard.  
-4. Explore different visuals to analyze performance trends and insights.  
+1. Clone or download this repository.  
+2. Place all dataset files inside the `/Data` folder as shown above.  
+3. Open the `Sales_Report.pbix` file in **Power BI Desktop**.  
+4. Reconnect datasets if required using the **Data Source Settings** menu.  
+5. Use the filters (Country, Year, Month) to interact with the dashboard.    
 
 ---
 
