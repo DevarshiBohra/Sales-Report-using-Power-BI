@@ -9,7 +9,7 @@ The dashboard allows users to explore data dynamically using filters for **Count
 ## 📈 Key Features
 
 ### 🧠 Overview Section
-- Interactive **filters** for Country, Year, and Month.  
+- Interactive **filters** for Country and Year.  
 - **KPI cards** display overall performance indicators such as:
   - Total Revenue  
   - Gross Profit  
@@ -60,7 +60,7 @@ The dashboard allows users to explore data dynamically using filters for **Count
 2. Place all dataset files inside the `/Data` folder as shown above.  
 3. Open the `Sales_Report.pbix` file in **Power BI Desktop**.  
 4. Reconnect datasets if required using the **Data Source Settings** menu.  
-5. Use the filters (Country, Year, Month) to interact with the dashboard.    
+5. Use the filters (Country, Year) to interact with the dashboard.    
 
 ---
 
